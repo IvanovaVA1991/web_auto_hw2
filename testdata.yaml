@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+#driver_path: ./chromedriver.exe
+browser: chrome   # указываем тип браузера
+sleep_time: 3   # задержка
+login: demid91
+passwd: 162e3639d2
+title: beautiful
